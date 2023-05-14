@@ -1,0 +1,17 @@
+{
+    "name": "readme-gen",
+    "version": "1.0.0",
+    "description": "This is a README generator to easily create your README file.",
+    "main": "index.js",
+    "scripts": {},
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RissaStack/README-gen.git"
+    },
+    "author": "Larissa Stack",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.3"
+    }
+}
